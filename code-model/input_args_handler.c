@@ -9,10 +9,7 @@
 ***************************/
 
 #include <stdio.h>
-
-
-#define PRO_OK 1
-#define PRO_ERR 0
+#include "process.h"
 
 
 typedef struct {
